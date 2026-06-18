@@ -87,7 +87,7 @@ const seedData = async () => {
       description: 'Fast-charging portable battery bank with dual USB ports and Type-C input/output.',
       price: 39.99,
       discount: 15,
-      image: 'https://images.unsplash.com/photo-1609592424109-dd9892f1b17c?w=600&auto=format&fit=crop&q=80',
+      image: 'https://images.pexels.com/photos/4526415/pexels-photo-4526415.jpeg?auto=compress&cs=tinysrgb&w=800',
       category: 'Electronics',
       gender: 'Unisex',
       stock: 60,
@@ -216,17 +216,6 @@ const seedData = async () => {
       stock: 30,
       rating: 4.4
     },
-    {
-      title: 'Knit Beanie Hat',
-      description: 'Cozy acrylic rib-knit beanie, stretchy one-size-fits-all, keeps you warm in style.',
-      price: 15.00,
-      discount: 5,
-      image: 'https://images.unsplash.com/photo-1576871337622-98d48d4aa53e?w=600&auto=format&fit=crop&q=80',
-      category: 'Fashion',
-      gender: 'Unisex',
-      stock: 90,
-      rating: 4.1
-    },
 
     // ===== MOBILES (10 products) =====
     {
@@ -267,22 +256,11 @@ const seedData = async () => {
       description: 'Hasselblad camera integration, Snapdragon 8 Gen 2, 100W SuperVOOC fast charging, and 16GB RAM.',
       price: 649.99,
       discount: 12,
-      image: 'https://images.unsplash.com/photo-1565849906461-0e25f5d47074?w=600&auto=format&fit=crop&q=80',
+      image: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80',
       category: 'Mobiles',
       gender: 'Unisex',
       stock: 22,
       rating: 4.5
-    },
-    {
-      title: 'Foldable Display Smartphone',
-      description: 'Cutting-edge folding AMOLED screen, dual display multitasking, and slim profile.',
-      price: 1399.99,
-      discount: 15,
-      image: 'https://images.unsplash.com/photo-1574755393849-6239422fda56?w=600&auto=format&fit=crop&q=80',
-      category: 'Mobiles',
-      gender: 'Unisex',
-      stock: 8,
-      rating: 4.3
     },
     {
       title: 'Magnetic Matte Phone Case',
@@ -328,17 +306,7 @@ const seedData = async () => {
       stock: 45,
       rating: 4.4
     },
-    {
-      title: '15W Qi Wireless Charger Pad',
-      description: 'Slim aluminum wireless charging base with anti-slip rubber surface and indicator light.',
-      price: 19.99,
-      discount: 10,
-      image: 'https://images.unsplash.com/photo-1622445262465-2481c4574875?w=600&auto=format&fit=crop&q=80',
-      category: 'Mobiles',
-      gender: 'Unisex',
-      stock: 80,
-      rating: 4.5
-    },
+    
 
     // ===== GROCERIES (10 products) =====
     {
@@ -453,17 +421,7 @@ const seedData = async () => {
     },
 
     // ===== SPORTS EQUIPMENT (10 products) =====
-    {
-      title: 'FIFA Standard Soccer Ball',
-      description: 'Machine-stitched TPU soccer ball, size 5, designed for training and match play.',
-      price: 29.99,
-      discount: 10,
-      image: 'https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=600&auto=format&fit=crop&q=80',
-      category: 'Sports Equipment',
-      gender: 'Unisex',
-      stock: 35,
-      rating: 4.5
-    },
+    
     {
       title: 'Official Size Basketball',
       description: 'Composite leather basketball with high-tack grip for indoor and outdoor courts.',
@@ -474,17 +432,6 @@ const seedData = async () => {
       gender: 'Unisex',
       stock: 30,
       rating: 4.6
-    },
-    {
-      title: 'Carbon Fiber Tennis Racket',
-      description: 'Lightweight tennis racquet with vibration dampening technology, includes carrying bag.',
-      price: 89.99,
-      discount: 20,
-      image: 'https://images.unsplash.com/photo-1622279457486-62dcc4a4b1fa?w=600&auto=format&fit=crop&q=80',
-      category: 'Sports Equipment',
-      gender: 'Unisex',
-      stock: 20,
-      rating: 4.4
     },
     {
       title: 'Adjustable Dumbbell Set (20kg)',
@@ -529,17 +476,6 @@ const seedData = async () => {
       gender: 'Men',
       stock: 40,
       rating: 4.5
-    },
-    {
-      title: 'Large Gym Duffel Bag',
-      description: 'Durable nylon sports bag with dedicated shoe compartment and wet/dry separation pocket.',
-      price: 29.99,
-      discount: 12,
-      image: 'https://images.unsplash.com/photo-1546938214-e0b59b350f58?w=600&auto=format&fit=crop&q=80',
-      category: 'Sports Equipment',
-      gender: 'Unisex',
-      stock: 50,
-      rating: 4.3
     },
     {
       title: 'Aero Bicycle Helmet',
